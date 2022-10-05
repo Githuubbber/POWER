@@ -124,7 +124,7 @@
          "value": "ANYTHING"
       },
       "URL": {
-         "description": "The Heroku App URL :-  https://<power6969>.herokuapp.com/",
+         "description": "The Heroku App URL :-  https://<power6969bot>.herokuapp.com/",
          "required": false,
          "value": "https://appname.herokuapp.com/"
       },
