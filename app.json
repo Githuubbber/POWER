@@ -13,7 +13,7 @@
          "Makima robot"
 
       ],   
-   "repository": "https://github.com/otakubinge/Makima-Robot",
+   "repository": "https://github.com/Githuubbber/Makima-Robot",
    "addons": [
       {
          "options": {
@@ -46,7 +46,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1937701729"
+         "value": "1792734082"
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
@@ -58,12 +58,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "SIXTH_H0KAGE"
+         "value": "Perfecthooman"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to Fallen Support than consider you made an enemy.",
          "required": true,
-         "value": "kakashi_bots_support"
+         "value": ""
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -93,7 +93,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Fallen Support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": "1937701729"
+         "value": "1792734082"
       },
       "STRICT_GBAN": {
          "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
@@ -124,7 +124,7 @@
          "value": "ANYTHING"
       },
       "URL": {
-         "description": "The Heroku App URL :-  https://<appname>.herokuapp.com/",
+         "description": "The Heroku App URL :-  https://<power6969>.herokuapp.com/",
          "required": false,
          "value": "https://appname.herokuapp.com/"
       },
